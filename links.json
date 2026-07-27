@@ -1,13 +1,16 @@
 {
   "access": "https://www.youtube.com/watch?v=-ezru8TNrsQ",
   "entrance": "",
-  "aircon": "",
   "gomi": "",
   "fridge": "",
-  "microwave": "",
-  "washer": "",
   "ricecooker": "",
   "bath": "",
   "403-room": "",
-  "405-room": ""
+  "403-aircon": "",
+  "403-microwave": "",
+  "403-washer": "",
+  "405-room": "",
+  "405-aircon": "",
+  "405-microwave": "",
+  "405-washer": ""
 }

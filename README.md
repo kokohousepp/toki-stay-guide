@@ -11,15 +11,18 @@
 |------|---------|---------|
 | 駅からのアクセス（共通） | `access` | https://kokohousepp.github.io/toki-stay-guide/access |
 | エントランス オートロック解除（共通） | `entrance` | https://kokohousepp.github.io/toki-stay-guide/entrance |
-| エアコン（共通） | `aircon` | https://kokohousepp.github.io/toki-stay-guide/aircon |
 | ゴミの分別・捨て方（共通） | `gomi` | https://kokohousepp.github.io/toki-stay-guide/gomi |
 | 冷蔵庫（共通） | `fridge` | https://kokohousepp.github.io/toki-stay-guide/fridge |
-| 電子レンジ（共通） | `microwave` | https://kokohousepp.github.io/toki-stay-guide/microwave |
-| 洗濯機（共通） | `washer` | https://kokohousepp.github.io/toki-stay-guide/washer |
 | 炊飯器（共通） | `ricecooker` | https://kokohousepp.github.io/toki-stay-guide/ricecooker |
 | お風呂・給湯（共通） | `bath` | https://kokohousepp.github.io/toki-stay-guide/bath |
 | キーボックス〜お部屋の入室 403 | `403-room` | https://kokohousepp.github.io/toki-stay-guide/403-room |
+| エアコン 403 | `403-aircon` | https://kokohousepp.github.io/toki-stay-guide/403-aircon |
+| 電子レンジ 403 | `403-microwave` | https://kokohousepp.github.io/toki-stay-guide/403-microwave |
+| 洗濯機 403 | `403-washer` | https://kokohousepp.github.io/toki-stay-guide/403-washer |
 | キーボックス〜お部屋の入室 405 | `405-room` | https://kokohousepp.github.io/toki-stay-guide/405-room |
+| エアコン 405 | `405-aircon` | https://kokohousepp.github.io/toki-stay-guide/405-aircon |
+| 電子レンジ 405 | `405-microwave` | https://kokohousepp.github.io/toki-stay-guide/405-microwave |
+| 洗濯機 405 | `405-washer` | https://kokohousepp.github.io/toki-stay-guide/405-washer |
 
 ※まだ動画が無いスラッグは「準備中 / Coming soon」ページを表示（QRは失効しない）。
 
