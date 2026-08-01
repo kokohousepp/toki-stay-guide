@@ -14,6 +14,7 @@
 | ゴミの分別・捨て方（共通） | `gomi` | https://kokohousepp.github.io/toki-stay-guide/gomi |
 | 冷蔵庫（共通） | `fridge` | https://kokohousepp.github.io/toki-stay-guide/fridge |
 | 炊飯器（共通） | `ricecooker` | https://kokohousepp.github.io/toki-stay-guide/ricecooker |
+| 電気ケトル（共通） | `kettle` | https://kokohousepp.github.io/toki-stay-guide/kettle |
 | お風呂・給湯（共通） | `bath` | https://kokohousepp.github.io/toki-stay-guide/bath |
 | キーボックス〜お部屋の入室 403 | `403-room` | https://kokohousepp.github.io/toki-stay-guide/403-room |
 | エアコン 403 | `403-aircon` | https://kokohousepp.github.io/toki-stay-guide/403-aircon |
