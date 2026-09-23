@@ -25,7 +25,19 @@
 | エアコン 405 | `405-aircon` | https://kokohousepp.github.io/toki-stay-guide/405-aircon |
 | 電子レンジ 405 | `405-microwave` | https://kokohousepp.github.io/toki-stay-guide/405-microwave |
 | 洗濯機 405 | `405-washer` | https://kokohousepp.github.io/toki-stay-guide/405-washer |
+| 駅からの道順 フクシア202 | `202-access` | https://kokohousepp.github.io/toki-stay-guide/202-access |
+| キーボックス〜エントランス 202 | `202-checkin` | https://kokohousepp.github.io/toki-stay-guide/202-checkin |
+| 鍵の使い方・お部屋の入室 202 | `202-room` | https://kokohousepp.github.io/toki-stay-guide/202-room |
+| エアコン 202 | `202-aircon` | https://kokohousepp.github.io/toki-stay-guide/202-aircon |
+| お風呂・給湯 202 | `202-bath` | https://kokohousepp.github.io/toki-stay-guide/202-bath |
+| 洗濯機 202 | `202-washer` | https://kokohousepp.github.io/toki-stay-guide/202-washer |
+| ガスコンロ 202 | `202-stove` | https://kokohousepp.github.io/toki-stay-guide/202-stove |
+| 電子レンジ 202 | `202-microwave` | https://kokohousepp.github.io/toki-stay-guide/202-microwave |
+| 電気ケトル 202 | `202-kettle` | https://kokohousepp.github.io/toki-stay-guide/202-kettle |
+| 炊飯器 202 | `202-ricecooker` | https://kokohousepp.github.io/toki-stay-guide/202-ricecooker |
+| ゴミの分別・捨て方 202 | `202-gomi` | https://kokohousepp.github.io/toki-stay-guide/202-gomi |
 
+※フクシア202は別建物のため【共通】スラッグを使わず、全て `202-` 付きの部屋別スラッグ（2026-09-23 追加。現在は仮動画＝タイトルカード）。
 ※まだ動画が無いスラッグは「準備中 / Coming soon」ページを表示（QRは失効しない）。
 
 ## 動画リンクを設定・差し替える（どちらのMacでも）
